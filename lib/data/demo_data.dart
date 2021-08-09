@@ -3,7 +3,7 @@ var data = [
     "id": "1",
     "video_title": "Video 1",
     "url":
-        "https://firebasestorage.googleapis.com/v0/b/videostreaming-test.appspot.com/o/vid%2FSnaptik_6745671851688692998_tiktok.mp4?alt=media&token=e6c76be2-9d8e-4be6-aedc-89ddd4985871",
+        "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4",
     "comments": "143",
     "likes": "3223",
     "song_name": "Song 1 - Artist 1",
@@ -15,7 +15,7 @@ var data = [
     "id": "2",
     "video_title": "Video 2",
     "url":
-        "https://firebasestorage.googleapis.com/v0/b/videostreaming-test.appspot.com/o/vid%2FSnaptik_6842407707551599878_carlos-barrios%20(1).mp4?alt=media&token=965f5080-2771-4477-bd9d-defc7b581c5d",
+        "https://vod-progressive.akamaized.net/exp=1627895439~acl=%2A%2F833049554.mp4%2A~hmac=10a778190384afd97ddd98c9d2d416d2318be1040b3b6acf1473b74442f9e197/vimeo-prod-skyfire-std-us/01/1906/9/234530446/833049554.mp4",
     "comments": "143",
     "likes": "3223",
     "song_name": "Song 2 - Artist 2",
@@ -27,7 +27,7 @@ var data = [
     "id": "3",
     "video_title": "Video 3",
     "url":
-        "https://firebasestorage.googleapis.com/v0/b/videostreaming-test.appspot.com/o/vid%2FSnaptik_6856769842385620229_alex.mp4?alt=media&token=b70d853b-760a-45ee-b5d3-44cef7e4db7f",
+        "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",
     "comments": "143",
     "likes": "3223",
     "song_name": "Song 3 - Artist 3",

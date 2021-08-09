@@ -61,13 +61,7 @@ class BottomBar extends StatelessWidget {
             children: [
               menuButton('Home', TikTokIcons.home, 0),
               menuButton('Search', TikTokIcons.search, 1),
-              SizedBox(
-                width: 15,
-              ),
               customCreateIcon,
-              SizedBox(
-                width: 15,
-              ),
               menuButton('Messages', TikTokIcons.messages, 2),
               menuButton('Profile', TikTokIcons.profile, 3)
             ],
